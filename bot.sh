@@ -1,6 +1,6 @@
 info="Commit: $(date)"
 
-cd ~/Desktop/code/commit-bot/
+cd ~/Desktop/code/com-bot/
 echo "$info" >> output.txt
 echo "$info"
 echo
